@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img{
+	width: 100%;
+}
+button{
+	width: 100%;
+	background: #f04736;
+	border-radius: 6px;
+	border: none;
+	outline: none;
+	color: white;
+	font-weight: 700;
+}
+.site-width{
+	width: 706px;
+	margin: 0 auto;
+	border-top:38px solid #09859d;
+	border: solid #09859d;
+	border-width: 38px 10px 10px 10px;
+	padding: 0 24px;	 
+}
+header{
+
+	width: 640px;
+	height: 100px;	
+	background:url(../images/header.png)#2a4f56 no-repeat;
+	background-size: contain;	
+	
+}
+
+main{
+
+	font-size: 17px;
+	padding:20px 80px 0 50px;
+	}
+main a{
+	color:#1155cc;
+}
+main p{
+	width: 512px;	
+	
+	padding:20px 0; 	
+}
+.text-center{
+	display:block;
+	width: 100%;
+	text-align: center;
+}
+main ul{
+	
+	padding-left: 40px;
+}
+main ul li{
+	padding-top:14px; 
+}
+
+.services-grid{
+	padding: 35px 0 30px 0; 
+	
+}
+.services-block{
+	float: left;
+	padding: 20px 30px 20px 30px;	
+	text-align: center;
+	font-weight: 700;
+	
+	
+}
+.services-block img{
+	
+	width: 250px;
+
+}
+.services-button{
+	height: 41px;
+}
+.services-block figcaption{
+	padding: 20px 20px;
+}
+.clearfix{
+	clear: both;
+}
+.text-block{
+	width: 100%;
+	padding: 20px 30px 20px 30px;	
+	font-size: 17px;
+
+}
+.text-block p {
+	width: 500px;
+}
+.text-block a{
+	text-decoration: none;
+	color: black;
+}
+.text-block button{
+	height: 40px;
+}
+footer{
+	width: 100%;
+	background:#09859d;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.social-link{
+	display: inline-block;
+	margin-left: 10px;
+	height: 36px;
+	width: 36px;
+}
