@@ -215,3 +215,6 @@ footer div{
         margin-right: -30px;
     }
 }
+@media (max-width: 552px){
+    font-size: 36px;
+}
