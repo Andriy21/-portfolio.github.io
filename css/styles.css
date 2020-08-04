@@ -43,7 +43,7 @@ font-family: 'PT Sans Caption', sans-serif;*/
 /*<------------HEADER------------->*/
 .header{
     width: 100%;
-    background: #343c4e url("../image/bg/bg-header.jpg")no-repeat center / cover;
+    background: #343c4e url("../image/header/bg-header.jpg")no-repeat center / cover;
     height: 100vh;
     color: #fff;
     text-align: center;
